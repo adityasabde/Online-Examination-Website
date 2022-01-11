@@ -3,4 +3,4 @@
 
 # looks
 
-![Screenshot (129)](https://user-images.githubusercontent.com/84443116/148885114-088dd80a-a3eb-42c5-b975-813986418707.png)
+![Screenshot (130)](https://user-images.githubusercontent.com/84443116/148886822-40165f32-4f41-4fa9-971f-ceebb2e687bf.png)
